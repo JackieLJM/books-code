@@ -1,0 +1,14 @@
+{
+  "name": "mytiny",
+  "version": "1.0.0",
+  "description": "Created for the javascript apps book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinyapp": "^0.1.2"
+  }
+}
