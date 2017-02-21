@@ -1,0 +1,3 @@
+[submodule "React-Native-App"]
+	path = React-Native-App
+	url = https://github.com/vczero/React-Native-App

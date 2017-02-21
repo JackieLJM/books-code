@@ -1,4 +1,4 @@
-var React = require('react-native');
+rvar React = require('react-native');
 var {
   AppRegistry,
   StyleSheet,
