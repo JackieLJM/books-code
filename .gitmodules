@@ -4,3 +4,6 @@
 [submodule "dom-scripting-10"]
 	path = dom-scripting-10
 	url = https://github.com/apress/dom-scripting-10.git
+[submodule "pro-css3-animation"]
+	path = pro-css3-animation
+	url = https://github.com/apress/pro-css3-animation.git
