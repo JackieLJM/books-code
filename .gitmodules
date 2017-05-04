@@ -10,3 +10,6 @@
 [submodule "foundation-html5-animation-w-javascript"]
 	path = foundation-html5-animation-w-javascript
 	url = https://github.com/Apress/foundation-html5-animation-w-javascript.git
+[submodule "you-dont-know-js"]
+	path = you-dont-know-js
+	url = https://github.com/getify/you-dont-know-js.git
