@@ -7,3 +7,6 @@
 [submodule "pro-css3-animation"]
 	path = pro-css3-animation
 	url = https://github.com/apress/pro-css3-animation.git
+[submodule "foundation-html5-animation-w-javascript"]
+	path = foundation-html5-animation-w-javascript
+	url = https://github.com/Apress/foundation-html5-animation-w-javascript.git
