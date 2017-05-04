@@ -13,3 +13,6 @@
 [submodule "you-dont-know-js"]
 	path = you-dont-know-js
 	url = https://github.com/getify/you-dont-know-js.git
+[submodule "book-source"]
+	path = book-source
+	url = https://github.com/funjs/book-source
