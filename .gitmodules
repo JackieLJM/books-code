@@ -16,3 +16,6 @@
 [submodule "book-source"]
 	path = book-source
 	url = https://github.com/funjs/book-source
+[submodule "promises-book"]
+	path = promises-book
+	url = https://github.com/azu/promises-book.git
