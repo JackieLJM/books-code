@@ -19,3 +19,6 @@
 [submodule "promises-book"]
 	path = promises-book
 	url = https://github.com/azu/promises-book.git
+[submodule "data_structures_and_algorithms_using_javascript"]
+	path = data_structures_and_algorithms_using_javascript
+	url = https://github.com/oreillymedia/data_structures_and_algorithms_using_javascript.git
