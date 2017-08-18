@@ -1,0 +1,199 @@
+@import url("base.css");
+
+body {min-height:100%; position:relative; color:#231f20;font-family:sans-serif, Helvetica, sans-serif;font-size:16px; }
+
+a {text-decoration:none;color:#4285F4;}
+
+a.abox{
+    display: block;
+    float:left;
+    padding:.35em;
+    margin-bottom: .5em;
+    background: #EB880D;
+    color:white;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    box-shadow: 0px 0px .5em #3B3B3B;
+    transition: all 1s;
+}
+a.abox:hover{
+    box-shadow: 0px 0px .75em #EB880D;
+}
+a.abox.mini{
+    background: #D5D5D5;
+    color:#3B3B3B;
+    font-family: inherit;
+    font-size: 1em;
+    box-shadow: 0px 0px .1em #333333;
+    border-radius: .5em;
+    padding: .1em;
+}
+
+
+
+
+/*OVERLAYS*/
+
+.outerlay{
+    position: fixed;
+    width:100%;
+    height: 100%;
+
+}
+
+.overlay{
+    position: fixed;
+    text-align: center;
+    top:0px;
+    left:0px;
+    z-index:10;
+    width:100%;
+    height:100%;
+    background:#eb880d;
+}
+.overlay .box{
+    position: fixed;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width:500px;
+    background: rgba(255,255,255,.2);
+   
+    border-radius: 5px;
+    padding: 2em;
+
+}
+
+.overlay h2{
+    margin-bottom:0em;
+}
+
+.overlay h2 img{
+    margin-top: -.5em;
+}
+
+.overlay a.close{
+    float:right;
+    cursor:pointer;
+    color: #A16418;
+    background:#333333;
+    padding:0 .5em;
+    margin-top: -1em;
+    border-radius: 1em; 
+    display: none;      
+}
+
+
+/* FORMS and OVERLAYS */
+
+.success{
+    background:green;
+    color:white;
+}
+
+.message.error, .error-message{
+    background:white;
+    color:#EB880D; 
+    border: 2px dotted;
+    border-radius: .5em;
+}
+
+.form-error{
+    border-color:red;
+}
+
+.input{
+    padding-bottom: .5em;
+}
+
+form .info{
+    position: absolute;
+    bottom: 0;
+    left:0;
+    background: #e29638;
+    color: white;
+}
+
+
+.overlay .abox.facebook{
+    width:49%;
+    background: #2979B0;
+}
+
+.overlay .abox.google{
+    width:49%;
+    background: #B73638;
+    float:right;
+}
+
+
+.overlay form{
+    width:100%;
+    
+}
+
+
+.overlay form button{
+    background: white;
+    color: #5A963E;;
+    padding: .5em;
+    min-width:40%;
+    border-radius: 1em;
+    border-width:.2em;
+    border-color: #5A963E;
+}
+
+.overlay form button:disabled{
+    background: #666666;
+}
+
+.select select, .overlay form input{
+    border-radius: .5em;
+    background: white;
+    color:#555555;
+}
+
+.overlay form [name*='dob']{
+    width:33.333%;
+
+}
+
+.overlay form [name*='dob']:first-of-type{
+     border-radius: .5em 0 0 .5em;
+}
+
+.overlay form [name*='dob']:last-of-type{ 
+     border-radius: 0 .5em .5em 0;
+}
+
+.overlay form .round input {
+    border-radius: 0;
+}
+
+.overlay form .round :first-child input{
+   border-radius: .5em 0 0 .5em;
+}
+
+.overlay form .round :last-child input{
+   border-radius: 0 .5em .5em 0;
+}
+
+.overlay form input:focus{
+    background: white;
+    color:#555555;
+}
+
+.overlay footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width:100%;
+    font-size: .7em;
+}
+
+.textual-area{
+    max-width:730px;
+    margin: auto;
+    text-align: left;
+}
