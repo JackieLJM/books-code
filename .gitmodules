@@ -22,3 +22,6 @@
 [submodule "data_structures_and_algorithms_using_javascript"]
 	path = data_structures_and_algorithms_using_javascript
 	url = https://github.com/oreillymedia/data_structures_and_algorithms_using_javascript.git
+[submodule "React-Design-Patterns-and-Best-Practices"]
+	path = React-Design-Patterns-and-Best-Practices
+	url = https://github.com/PacktPublishing/React-Design-Patterns-and-Best-Practices.git
