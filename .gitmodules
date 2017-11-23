@@ -25,3 +25,6 @@
 [submodule "React-Design-Patterns-and-Best-Practices"]
 	path = React-Design-Patterns-and-Best-Practices
 	url = https://github.com/PacktPublishing/React-Design-Patterns-and-Best-Practices.git
+[submodule "react-redux-book"]
+	path = react-redux-book
+	url = https://github.com/lewis617/react-redux-book.git
