@@ -28,3 +28,9 @@
 [submodule "react-redux-book"]
 	path = react-redux-book
 	url = https://github.com/lewis617/react-redux-book.git
+[submodule "Mastering-React-Native"]
+	path = Mastering-React-Native
+	url = https://github.com/PacktPublishing/Mastering-React-Native.git
+[submodule "react"]
+	path = react
+	url = https://github.com/azat-co/react.git
