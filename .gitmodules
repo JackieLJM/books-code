@@ -34,3 +34,6 @@
 [submodule "react"]
 	path = react
 	url = https://github.com/azat-co/react.git
+[submodule "react-and-redux"]
+	path = react-and-redux
+	url = https://github.com/mocheng/react-and-redux.git
