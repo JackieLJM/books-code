@@ -37,3 +37,39 @@
 [submodule "react-and-redux"]
 	path = react-and-redux
 	url = https://github.com/mocheng/react-and-redux.git
+[submodule "pro-react/react-app-boilerplate"]
+	path = pro-react/react-app-boilerplate
+	url = https://github.com/pro-react/react-app-boilerplate.git
+[submodule "pro-react/sample-code"]
+	path = pro-react/sample-code
+	url = https://github.com/pro-react/sample-code.git
+[submodule "pro-react/react-app-advanced-boilerplate"]
+	path = pro-react/react-app-advanced-boilerplate
+	url = https://github.com/pro-react/react-app-advanced-boilerplate.git
+[submodule "pro-react/kanban-app"]
+	path = pro-react/kanban-app
+	url = https://github.com/pro-react/kanban-app.git
+[submodule "pro-react/pro-react.github.io"]
+	path = pro-react/pro-react.github.io
+	url = https://github.com/pro-react/pro-react.github.io.git
+[submodule "the-road-to-learn-react/react-firebase-chat"]
+	path = the-road-to-learn-react/react-firebase-chat
+	url = https://github.com/the-road-to-learn-react/react-firebase-chat.git
+[submodule "the-road-to-learn-react/the-road-to-learn-react-chinese"]
+	path = the-road-to-learn-react/the-road-to-learn-react-chinese
+	url = https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese.git
+[submodule "the-road-to-learn-react/hackernews-client"]
+	path = the-road-to-learn-react/hackernews-client
+	url = https://github.com/the-road-to-learn-react/hackernews-client.git
+[submodule "Mastering-Full-Stack-React-Web-Development"]
+	path = Mastering-Full-Stack-React-Web-Development
+	url = https://github.com/PacktPublishing/Mastering-Full-Stack-React-Web-Development.git
+[submodule "react-essentials/react-essentials"]
+	path = react-essentials/react-essentials
+	url = https://github.com/fedosejev/react-essentials.git
+[submodule "react-essentials/react-essentials-project"]
+	path = react-essentials/react-essentials-project
+	url = https://github.com/fedosejev/react-essentials-project.git
+[submodule "react-essentials/shopping-list-react-redux"]
+	path = react-essentials/shopping-list-react-redux
+	url = https://github.com/fedosejev/shopping-list-react-redux.git
