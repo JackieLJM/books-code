@@ -73,3 +73,6 @@
 [submodule "react-essentials/shopping-list-react-redux"]
 	path = react-essentials/shopping-list-react-redux
 	url = https://github.com/fedosejev/shopping-list-react-redux.git
+[submodule "SimpleCMS-JAVA"]
+	path = SimpleCMS-JAVA
+	url = https://github.com/tianxiaode/SimpleCMS-JAVA
