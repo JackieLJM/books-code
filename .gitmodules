@@ -79,3 +79,6 @@
 [submodule "nodeinpractice"]
 	path = nodeinpractice
 	url = https://github.com/alexyoung/nodeinpractice.git
+[submodule "Koa-Node.js-Web-FE-Development"]
+	path = Koa-Node.js-Web-FE-Development
+	url = https://github.com/ikcamp/Koa-Node.js-Web-FE-Development.git
