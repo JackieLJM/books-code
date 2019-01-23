@@ -76,3 +76,6 @@
 [submodule "SimpleCMS-JAVA"]
 	path = SimpleCMS-JAVA
 	url = https://github.com/tianxiaode/SimpleCMS-JAVA
+[submodule "nodeinpractice"]
+	path = nodeinpractice
+	url = https://github.com/alexyoung/nodeinpractice.git
