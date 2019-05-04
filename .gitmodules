@@ -82,3 +82,6 @@
 [submodule "Koa-Node.js-Web-FE-Development"]
 	path = Koa-Node.js-Web-FE-Development
 	url = https://github.com/ikcamp/Koa-Node.js-Web-FE-Development.git
+[submodule "producter-book-examples"]
+	path = producter-book-examples
+	url = https://github.com/ProducterTips/producter-book-examples.git
