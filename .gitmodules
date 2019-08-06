@@ -82,3 +82,6 @@
 [submodule "Koa-Node.js-Web-FE-Development"]
 	path = Koa-Node.js-Web-FE-Development
 	url = https://github.com/ikcamp/Koa-Node.js-Web-FE-Development.git
+[submodule "redux-book/code-samples"]
+	path = redux-book/code-samples
+	url = https://github.com/redux-book/code-samples.git
