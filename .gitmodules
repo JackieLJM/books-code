@@ -91,3 +91,6 @@
 	path = producter-book-examples
 	url = https://github.com/ProducterTips/producter-book-examples.git
 
+[submodule "3book"]
+	path = 3book
+	url = https://github.com/duoergun0729/3book.git
