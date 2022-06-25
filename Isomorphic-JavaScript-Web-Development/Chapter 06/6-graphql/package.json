@@ -28,7 +28,7 @@
     "graphiql": "0.11.3",
     "graphql": "0.11.3",
     "moment": "2.18.1",
-    "node-fetch": "1.5.1",
+    "node-fetch": "2.6.7",
     "react": "16.0.0",
     "react-dom": "16.0.0",
     "sequelize": "4.8.3",
